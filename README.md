@@ -4,9 +4,11 @@ Teste realizado para ingresso na SoftwareHouse Pulse
 
 ## Tecnologias
 
-Flutter
-Dart
-Firebase
+<ul>
+  <li>Flutter</li>
+  <li>Dart</li>
+  <li>Firebase</li>
+</ul>
 
 ## Ferramenta
 
