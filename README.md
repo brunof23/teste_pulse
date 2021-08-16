@@ -13,6 +13,51 @@ Mobile APP Android
 ## Download APK
 [Link Google Drive](https://pages.github.com/)
 
+
+## Preparação do Ambiente no VS Code
+<div align='center'>
+  <img src="https://user-images.githubusercontent.com/56076117/129591213-c23dc83d-9bbd-4546-88b8-0483d74bbcbf.JPG"/>
+ 
+  </div>
+  <div align="center">
+   - Abra o aquivo 'pubspec.yaml' e aperte Control + S ou clique onde está indicado para baixar as bibliotecas e versões adequadas ao projeto
+   - Versão do Flutter: 2.2.2
+  
+  </div>
+  
+  <p>
+  </p>
+  
+  
+  
+  
+  <div align='center'>
+  <img src="https://user-images.githubusercontent.com/56076117/129591216-d312e66b-05b3-4047-9c56-2942ffc8f211.jpg"/>
+ 
+  </div>
+  <div align="center">
+   Abrindo o Emulador: Selecione clicando no botão inferior direito, logo após esocolhendo o emulador que está instalado na sua máquina.
+  </div>
+  
+  <p>
+  </p>
+  
+  
+  
+  
+  
+  <div align='center'>
+  <img src="https://user-images.githubusercontent.com/56076117/129591207-c71606e6-e2b2-4cc2-b1ca-fb20c879d9aa.jpg"/>
+ 
+  </div>
+  <div align="center">
+   Start a aplicação através do arquivo "main". Clique com o botão dereito do mouse, logo após clique em 'startdebug'(Caso haja erros, execute novamente o 'main')
+  
+  </div>
+  
+  <p>
+  </p>
+
 ## Layout
 
 <div align='center'>
