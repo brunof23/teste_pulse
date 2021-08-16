@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "517134466735",
+    "firebase_url": "https://lojapulse-68fc4-default-rtdb.firebaseio.com",
+    "project_id": "lojapulse-68fc4",
+    "storage_bucket": "lojapulse-68fc4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517134466735:android:cbbe266655df20aa0e9e5a",
+        "android_client_info": {
+          "package_name": "br.com.ciolfi.loja_virtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "517134466735-8c7o7u979lumor6ltru4432f8b1cmt9u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzUkVQTybq3Rb3BBjjZTUaT3XvpamGYkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "517134466735-8c7o7u979lumor6ltru4432f8b1cmt9u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
