@@ -1,5 +1,12 @@
-# teste_pulse
-Teste realizado para ingresso na SoftwareHouse Pulse
+# Mobile Ecommerce - Flutter + Firebase
+
+## Sobre o projeto
+Desafio realizado para ingresso na SoftwareHouse Pulse
+
+## Divisão
+Mobile APP Android
+
+## Layout
 
 
 ## Tecnologias
